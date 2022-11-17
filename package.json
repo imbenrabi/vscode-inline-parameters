@@ -22,7 +22,11 @@
     "Other"
   ],
   "activationEvents": [
-    "*"
+    "onLanguage:javascript",
+    "onLanguage:javascriptreact",
+    "onLanguage:typescript",
+    "onLanguage:typescriptreact",
+    "onLanguage:rust"
   ],
   "contributes": {
     "commands": [
