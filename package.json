@@ -1,8 +1,8 @@
 {
-  "name": "inline-parameters",
-  "displayName": "Inline Parameters for VSCode",
+  "name": "inline-parameters-ts-and-js",
+  "displayName": "Inline Parameters for VSCode | TS/JS activationEvents",
   "description": "Function parameter annotations displaying inline in VSCode",
-  "publisher": "liamhammett",
+  "publisher": "imbenrabi",
   "icon": "icon.png",
   "version": "0.2.1",
   "license": "MIT",
